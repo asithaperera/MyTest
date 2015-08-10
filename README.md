@@ -1,2 +1,3 @@
 # MyTest
-Teting
+Testing
+Master is testing
